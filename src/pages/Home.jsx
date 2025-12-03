@@ -33,8 +33,6 @@ function Home() {
 
   return (
     <div>
-      <h1>블로그</h1>
-
       <form onSubmit={handleSubmit}>
         <input
           type="text"
