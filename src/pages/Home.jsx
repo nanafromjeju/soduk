@@ -45,7 +45,7 @@ function Home() {
           value={content}
           onChange={(e) => setContent(e.target.value)}
         />
-        <button type="submit">작성</button>
+        <button type="submit">완료</button>
       </form>
 
       <div>
